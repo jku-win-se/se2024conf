@@ -1,6 +1,7 @@
+![SE24 Logo](./Logos_SE_24.svg)
 ![JKU Header](./jku.jpg)
 
-![SE24 Logo](./Logos_SE_24.svg)
+
 # Wir freuen uns darauf, die SE Community vom 26. Februar bis zum 1. März 2024 in Linz willkommen zu heißen!
 
 
